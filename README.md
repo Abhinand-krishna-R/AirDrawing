@@ -1,4 +1,4 @@
-# 🎨 AirSculpt Pro (AirDrawing)
+# 🎨 AirDrawing
 ### High-Fidelity Gesture-Controlled Digital Canvas
 
 AirSculpt Pro is a real-time computer vision application that transforms hand gestures into a seamless digital painting experience.
